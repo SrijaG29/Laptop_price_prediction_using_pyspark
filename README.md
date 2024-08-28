@@ -7,7 +7,6 @@
 
 Kaggle Link :
 https://www.kaggle.com/datasets/gyanprakashkushwaha/laptop-price-prediction-cleaned-dataset
-These are the features given by a user:
 
 
 
