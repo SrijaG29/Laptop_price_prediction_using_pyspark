@@ -1,4 +1,4 @@
-# Laptop_price_prediction_using_pyspark
+# Laptop_price_prediction
 
 1. In this project I have used laptop-price-prediction dataset to predict price of laptop based on user inputs
 2. In this I have used Pysaprk for Data cleaning and Data manipulation.
